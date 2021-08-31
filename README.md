@@ -1,0 +1,1 @@
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIA0olgOUsA5OjNlRHMsIqaXMWA2/7FfkUl8MvCNYqmcC morgan@morgan-ThinkPad-E15
