@@ -1,3 +1,3 @@
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIxgnnkk4svTUwcrglom2AZhGCf5vkV8phEFsDBZDT8q morgan@aristotle
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMPhW5Mpt2EkFAeEkKsoQsq3iDehDN1gxE3ex6XiRw57 morgan@aristotle
 
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEhMVjlkWyLneUZexzXwHVc90hXyLth6P/ADjDKMQcuh morgan@epictetus
